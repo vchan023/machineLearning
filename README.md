@@ -1,3 +1,2 @@
 # machineLearning
-my wrist hurt, this should fix that
-clustering of reddit comments
+My wrist hurt, this should fix that. Clustering of reddit comments
